@@ -17,7 +17,7 @@ To start local server, type `mvn compile package jetty:run` and navigate to http
 #### Unit tests
 Type `mvn tests` to run unit tests
 
-Wireframes
+Screenshots
 ----------
 
 ***Contact Form App***
