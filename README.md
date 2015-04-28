@@ -15,7 +15,7 @@ Project runs on Apache Maven http://maven.apache.org/
 To start local server, type `mvn compile package jetty:run` and navigate to http://localhost:8080
 
 #### Unit tests
-Type `mvn tests` to run unit tests
+Type `mvn test` to run unit tests
 
 Screenshots
 ----------
